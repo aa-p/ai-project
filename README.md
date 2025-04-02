@@ -1,1 +1,1 @@
-# pintrend
+# AI Project
